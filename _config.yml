@@ -15,8 +15,8 @@ plugins:
 # Color scheme
 color_scheme: dark
 
-# Logo
-logo: "/assets/images/logo.png"
+# Logo (disabled - no logo file)
+# logo: "/assets/images/logo.png"
 
 # Aux links (top right)
 aux_links:
