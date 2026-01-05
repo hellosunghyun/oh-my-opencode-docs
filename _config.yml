@@ -14,7 +14,7 @@ plugins:
   - jekyll-seo-tag
 
 # Color scheme
-color_scheme: dark
+color_scheme: light
 
 # Logo (disabled - no logo file)
 # logo: "/assets/images/logo.png"
