@@ -21,12 +21,12 @@ oh-my-opencode는 [OpenCode](https://github.com/code-yeongyu/oh-my-opencode/blob
 
 **주요 탐색:**
 
-* 시작하기: [2](../getting-started/) 설치 및 설정
-* 핵심 아키텍처: [3](../architecture/) 플러그인 생명주기 및 이벤트 시스템
-* 에이전트 시스템: [4](../agents/) 멀티 에이전트 오케스트레이션
-* 도구 생태계: [5](../tools/) 향상된 개발 도구
-* 백그라운드 실행: [6](../background-execution/) 병렬 에이전트 시스템
-* 안정성 기능: [7](../reliability/) 심층 방어(Defense-in-Depth) 안정성
+* [시작하기](./getting-started/) - 설치 및 설정
+* [아키텍처](./architecture/) - 플러그인 생명주기 및 이벤트 시스템
+* [에이전트 시스템](./agents/) - 멀티 에이전트 오케스트레이션
+* [도구](./tools/) - 향상된 개발 도구
+* [백그라운드 실행](./background-execution/) - 병렬 에이전트 시스템
+* [안정성](./reliability/) - 심층 방어(Defense-in-Depth) 안정성
 
 ## oh-my-opencode란 무엇인가요?
 
