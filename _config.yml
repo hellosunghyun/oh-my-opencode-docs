@@ -2,7 +2,7 @@
 title: Oh My OpenCode
 description: AI Agent Orchestration Plugin for OpenCode - Multi-agent workflows, parallel execution, and production-grade reliability
 baseurl: "/oh-my-opencode-docs"
-url: ""
+url: "https://hellosunghyun.github.io"
 
 # Theme
 remote_theme: just-the-docs/just-the-docs@v0.10.0
